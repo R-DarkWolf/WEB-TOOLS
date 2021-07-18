@@ -1,4 +1,4 @@
-# Create by Capricornio23
+# Create por R-DarkWolf
 from termcolor import colored
 from pyfiglet import Figlet
 from gtts import gTTS
