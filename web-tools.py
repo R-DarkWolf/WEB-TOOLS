@@ -60,7 +60,9 @@ def naomi():
 					print(best.resolution, best.extension)
 					best.download()
 					mod("\033[36m Vídeo descargado")
-					
+					input("Presione ENTER para continuar...")
+					os.system("clear")
+					naomi()
 		elif (opc==4):
 			mod("Convertir texto a voz desde wikipedia")
 			wikipedia.set_lang('es')
