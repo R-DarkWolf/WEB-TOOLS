@@ -1,4 +1,4 @@
-# Create por R-DarkWolf
+# Create by R-DarkWolf
 from termcolor import colored
 from pyfiglet import Figlet
 from gtts import gTTS
