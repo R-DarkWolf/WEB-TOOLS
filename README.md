@@ -39,3 +39,8 @@ $ pip install gtts
 
 $ git clone https://github.com/R-DarkWolf/WEB-TOOLS
 
+# ⚙️ EJECUCIÓN ⚙️
+
+$ cd WEB-TOOLS
+
+$ python web-tools.py
