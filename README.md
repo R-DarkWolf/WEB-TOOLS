@@ -13,7 +13,20 @@ Es una herramienta que tiene alojada dentro, cuatro sub herramientas tales como:
 
 Para instalar seguir los siguientes pasos:
 
-# 📲 INSTALACIÓN📲
+# 🐍 INSTALACIÓN EN PYDROID 🐍
+
+® En este caso solo descargamos el archivo y vamos a la consola de pydroid ejecutamos:
+
+&pydroid$ cd storage
+
+&pydroid$ cd downloads
+
+&pydroid$ cd WEB-TOOLS
+
+&pydroid$ python web-tools.py
+
+
+# 📲 INSTALACIÓN EN OTRAS DISTROS📲
 
 Cabe señalar que algunas de las sub herramientas no están disponibles para TERMUX
 
