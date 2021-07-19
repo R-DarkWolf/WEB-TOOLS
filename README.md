@@ -44,3 +44,11 @@ $ git clone https://github.com/R-DarkWolf/WEB-TOOLS
 $ cd WEB-TOOLS
 
 $ python web-tools.py
+
+# 💻 PROGRAMADOR 💻
+
+@ R-DARKWOLF @
+
+# 📞 +51 983055174
+
+# 📧 red1422@gmail.com
